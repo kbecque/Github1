@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test1");
+            Console.WriteLine("Eerste github classroom taak!");
         }
     }
 }
